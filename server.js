@@ -26,4 +26,3 @@ app.use('/api/auth', userRoutes);
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 })
-gir
